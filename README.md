@@ -1,9 +1,10 @@
 <div align="center">
-
+<a href="https://github.com/dineshthakare/your-repo-name">
  <img src="image.png" alt="Logo" width="60" height="60">
+  </a>
+    <h1 align="center">Dinesh Thakare's Portfolio</h1>
   <p align="center">
-   open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
-100% open-source, and customizable.
+   A modern and responsive developer portfolio showcasing my skills, projects, and experience.
   </p>
   <p>
     
