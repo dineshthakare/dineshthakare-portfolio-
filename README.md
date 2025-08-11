@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://github.com/karthikmudunuri/eldoraui">
+  <a href="https://github.com/dineshthakare/eldoraui">
 
 
- <img src="https://github.com/user-attachments/assets/d00f15e8-cc1a-47a6-b99f-885156a55fc3" alt="Logo" width="60" height="60">
+ <img src="image.png" alt="Logo" width="60" height="60">
   </a>
   <h1 align="center">Eldora UI</h1>
   <p align="center">
@@ -43,7 +43,7 @@ Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer moti
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/karthikmudunuri/portfolio-template
+   git clone https://github.com/dineshthakare/dineshthakare-portfolio-.git
    ```
 
 2. Move to the cloned directory
@@ -64,7 +64,6 @@ Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer moti
    npm run dev
    ```
 
-5. Open the [Sections](https://github.com/karthikmudunuri/portfolio-template/tree/main/app/sections) folder and make changes
 
 # License
 
