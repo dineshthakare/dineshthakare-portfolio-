@@ -31,7 +31,7 @@ const Tools = () => {
                 <div className="mx-auto w-[100%] lg:max-w-[1200px] justify-center">
 
                     <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-bold leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[40px] md:leading-relaxed lg:mb-16 lg:w-[50%]">
-                        <AnimatedBody delay={0.2} text="Video Editing" />
+                        <AnimatedBody delay={0.2} text="Mern Stack Developer" />
                         <div>
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.2} stepSize={0.1} iconSize={50}>
                                 <Image src="/premeire.svg" alt="Premiere Pro" width={50} height={50} />
