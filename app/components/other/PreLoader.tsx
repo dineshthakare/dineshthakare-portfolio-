@@ -96,7 +96,7 @@ const PreLoader: React.FC = () => {
                 }}
             >
                 <span>Your friendly neighborhood </span>
-                <span className="flex items-center justify-center gap-3">video editor!</span>
+                <span className="flex items-center justify-center gap-3">MERN Stack Developer!</span>
                 <div className="sub hidden"></div>
             </div>
         </div>
