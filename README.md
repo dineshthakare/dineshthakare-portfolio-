@@ -46,7 +46,7 @@ Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer moti
 2. Move to the cloned directory
 
    ```bash
-   cd portfolio-template
+   cd dineshthakare-portfolio-
    ```
 
 3. Install dependencies:
